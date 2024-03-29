@@ -1,3 +1,7 @@
+# Fork
+
+Current wrapper implements only a subset of mavsdk gRPC messages. For our use we need to implement additional messages and propose a PR in the future
+
 # MAVSDK-Rust
 
 This is the Rust wrapper for MAVSDK.
